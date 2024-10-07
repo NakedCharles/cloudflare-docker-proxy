@@ -7,7 +7,7 @@ const dockerHub = "https://registry-1.docker.io";
 
 const routes = {
   // production
-  "hub.pr1vati0n.net": dockerHub,
+  "docker.pr1vati0n.net": dockerHub,
   "quay.pr1vati0n.net": "https://quay.io",
   "gcr.pr1vati0n.net": "https://gcr.io",
   "k8s-gcr.pr1vati0n.net": "https://k8s.gcr.io",
